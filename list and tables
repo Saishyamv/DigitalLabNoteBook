@@ -1,0 +1,20 @@
+# Lists and bullet points
+
+To create lists, begin a line with asterisk, orminus:
+* Item 1
+This is with minus
+-item 1
+You csn make sub points with two spaces before a point:
+
+*item 1
+
+  *sub-item 1
+  
+*sub-item 2
+
+*item 2
+if you want to create a numbered list:
+
+1.Item 1
+
+2.Item 2
